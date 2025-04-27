@@ -16,21 +16,22 @@ p {
   line-height: 1.6;
 }
 
-body, .page-columns, .content {
+/* Stretch body and page columns fully */
+body, .page-columns, .content, .container, .container-fluid {
   margin: 0;
   padding: 0;
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* Fullscreen background image */
+/* Now define your full screen background */
 .fullscreen-background {
   background-image: url('images/home.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
   width: 100%;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
