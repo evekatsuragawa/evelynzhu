@@ -15,9 +15,16 @@ h1, h2, h3, h4, h5 {
 p {
   line-height: 1.6;
 }
-.fullscreen-image {
-  position: relative;
-  width: 100%;
+
+.fullscreen-background {
+  background-image: url('home.jpg'); /* path to your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100vh; /* 100% of the viewport height */
-  object-fit: cover;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+

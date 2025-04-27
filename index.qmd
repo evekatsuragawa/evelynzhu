@@ -1,1 +1,2 @@
-![](home.jpg){.fullscreen-image}
+::: fullscreen-background
+:::
