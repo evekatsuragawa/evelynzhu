@@ -1,0 +1,19 @@
+---
+title: "Home"
+---
+
+Welcome! This is Evelyn, Zihan Zhu.
+
+I'm a [PhD student](https://gvpt.umd.edu/gradprofile/zhu/zihan) in Government and Politics at the University of Maryland, College Park with a primary field in International Relations and a secondary field in Comparative Politics.
+
+Prior to beginning doctoral studies, I was awarded Honors Bachelor of Arts by the University of Toronto, St. George's in June 2019, and received Master of Social Sciences from the University of Macau in June 2023.
+
+I currently study the interaction between domestic political institutions & actors and foreign policy decision-making (*particularly regarding international trade*) with a country-specific focus on Japan due to its uniqueness among democracies. I also take some interest in electoral politics (*specifically political dynasties*), and the emerging trend of global authoritarianism. I have been working as a research assistant to Prof. Todd Allee on projects that broadly cover international trade and international institutions.
+
+As a political scientist in an early career stage, I tend to keep things open for furture research. I'm also gradually building my CV and other relevant materials.
+
+Beyond my professional profile, I'm a dog person and a J-pop fan.
+
+::: center
+![](profile.jpg){fig-align="center" width="200"}
+:::
