@@ -1,3 +1,7 @@
+---
+body-class: fullscreen-home
+page-layout: custom
+---
+
 ::: fullscreen-background
-# 
 :::

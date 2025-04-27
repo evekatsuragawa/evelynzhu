@@ -1,19 +1,21 @@
-/* Always reset body margin for clean layout */
-body {
-  margin: 0;
-  padding: 0;
+/* Only for Home page: remove margins and paddings */
+body.fullscreen-home, 
+body.fullscreen-home main, 
+body.fullscreen-home .page-columns, 
+body.fullscreen-home .content, 
+body.fullscreen-home .container, 
+body.fullscreen-home .container-fluid {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
 }
 
-/* Only apply full screen style to background block */
+/* Fullscreen background for Home */
 .fullscreen-background {
-  background-image: url('images/home.jpg'); /* your correct path */
+  background: url('images/home.jpg') no-repeat center center fixed;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 99vw;
+  height: 100vh;
   overflow: hidden;
 }
