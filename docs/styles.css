@@ -13,7 +13,7 @@ body.fullscreen-home .container-fluid {
 
 /* Fullscreen background for Home */
 .fullscreen-background {
-  background: url('images/home.jpg') no-repeat center center fixed;
+  background: url('images/home.jpeg') no-repeat center center fixed;
   background-size: cover;
   width: 99vw;
   height: 100vh;
