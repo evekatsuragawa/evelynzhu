@@ -19,5 +19,5 @@ website:
   page-footer: "© 2025 Evelyn/Zihan Zhu"
 format:
   html:
-    theme: morph
+    theme: flatly
     css: styles.css
