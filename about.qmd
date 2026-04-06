@@ -3,6 +3,8 @@ title: "About"
 editor: visual
 ---
 
+![](profile.jpg){width="200" style="float:left; margin-right:20px; margin-bottom:10px;"}
+
 Welcome! This is Evelyn, Zihan Zhu.
 
 I'm a [PhD student](https://gvpt.umd.edu/gradprofile/zhu/zihan) in Government and Politics at the University of Maryland, College Park with a primary field in International Relations and a secondary field in Comparative Politics. Prior to beginning doctoral studies, I was awarded Honors Bachelor of Arts by the University of Toronto, St. George's in June 2019, and received Master of Social Sciences from the University of Macau in June 2023.
