@@ -6,7 +6,7 @@ editor: visual
 ::: {.columns}
 
 ::: {.column width="30%"}
-![](profile.jpg){width="100%"}
+![](profile.jpg){width="90%"}
 :::
 
 ::: {.column width="70%"}
