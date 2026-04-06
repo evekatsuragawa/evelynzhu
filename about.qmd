@@ -5,17 +5,13 @@ editor: visual
 
 Welcome! This is Evelyn, Zihan Zhu.
 
-I'm a [PhD student](https://gvpt.umd.edu/gradprofile/zhu/zihan) in Government and Politics at the University of Maryland, College Park with a primary field in International Relations and a secondary field in Comparative Politics.
+I'm a [PhD student](https://gvpt.umd.edu/gradprofile/zhu/zihan) in Government and Politics at the University of Maryland, College Park with a primary field in International Relations and a secondary field in Comparative Politics. Prior to beginning doctoral studies, I was awarded Honors Bachelor of Arts by the University of Toronto, St. George's in June 2019, and received Master of Social Sciences from the University of Macau in June 2023.
 
-Prior to beginning doctoral studies, I was awarded Honors Bachelor of Arts by the University of Toronto, St. George's in June 2019, and received Master of Social Sciences from the University of Macau in June 2023.
+I mainly study the *political economy of international organizations* (IO/s), which includes but is not limited to research questions such as how states leverage aid disbursement to advance their foreign policy agenda and how successful/effective such practices have been, how IO staffing composition and leadership are decided and the role powerful states play in that process, how UN peace operations are deployed and operating across contexts. I also take some interest in electoral politics and the presence of political dynasties, and the emerging trend of global authoritarianism. I have a country-specific focus on Japan due to its uniqueness as a non-Western democracy.
 
-I mainly study the *political economy of international organizations* (IO/s), which includes but is not limited to research questions such as how states leverage aid disbursement to advance their foreign policy agenda and how successful/effective such practices have been, how IO staffing composition and leadership are decided and the role powerful states play in that process, how UN peace operations are deployed and operating across contexts. I also take some interest in electoral politics and the precense of political dynasties, and the emerging trend of global authoritarianism. I have a country-specific focus on Japan due to its uniqueness as a non-Western democracy.
+I have been working as a research assistant to faculty on various projects broadly defined in the field of International Relations. Most recently, I'm coauthoring with Dr. [David Cunningham](http://www.davidcunninghampolisci.com/) on UN Special Political Missions, and have been part of the [Networks of Influence and Support](https://www.ripilab.com/active-projects/networks-of-influence-and-support-between-war-and-peace) project for coding aid actors within conflict-affected contexts.
 
-I have been working as a research assistant to faculty on variaous projects broadly defined in the field of International Relations. Most recently, I'm coauthoring with Dr. [David Cunningham](http://www.davidcunninghampolisci.com/) on UN Special Political Missions, and have been part of the [Networks of Influence and Support](https://www.ripilab.com/active-projects/networks-of-influence-and-support-between-war-and-peace) project for building datasets.
-
-As a political scientist in an early career stage, I tend to keep things open. I'm also gradually building my CV and other relevant materials.
-
-Beyond my professional profile, I'm a dog person and a J-pop fan.
+As a political scientist in an early career stage, I tend to keep things open. I'm also gradually building my CV and other relevant materials. Beyond my professional profile, I'm a dog person and a J-pop fan.
 
 ::: center
 ![](profile.jpg){fig-align="center" width="200"}
