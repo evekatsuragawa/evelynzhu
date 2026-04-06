@@ -3,7 +3,13 @@ title: "About"
 editor: visual
 ---
 
-![](profile.jpg){width="200" style="float:left; margin-right:20px; margin-bottom:10px;"}
+::: {.columns}
+
+::: {.column width="30%"}
+![](profile.jpg){width="100%"}
+:::
+
+::: {.column width="70%"}
 
 Welcome! This is Evelyn, Zihan Zhu.
 
@@ -14,3 +20,7 @@ I mainly study the *political economy of international organizations* (IO/s), wh
 I have been working as a research assistant to faculty on various projects broadly defined in the field of International Relations. Most recently, I'm coauthoring with Dr. [David Cunningham](http://www.davidcunninghampolisci.com/) on UN Special Political Missions, and have been part of the [Networks of Influence and Support](https://www.ripilab.com/active-projects/networks-of-influence-and-support-between-war-and-peace) project for coding aid actors within conflict-affected contexts.
 
 As a political scientist in an early career stage, I tend to keep things open. I'm also gradually building my CV and other relevant materials. Beyond my professional profile, I'm a dog person and a J-pop fan.
+
+:::
+
+:::
