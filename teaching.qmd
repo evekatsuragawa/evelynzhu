@@ -2,3 +2,7 @@
 title: "Teaching"
 editor: visual
 ---
+
+GVPT201 Scope and Methods for Political Science Research
+
+-   Instructor: Dr. [Johanna K. Birnir](https://johannabirnir.com/)
