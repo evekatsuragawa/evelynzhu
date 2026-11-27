@@ -3,6 +3,6 @@ title: "Teaching"
 editor: visual
 ---
 
-GVPT201 Scope and Methods for Political Science Research
+GVPT201 Fall 2026 *Scope and Methods for Political Science Research* by Dr. [Jóhanna K. Birnir](https://johannabirnir.com/)
 
--   Instructor: Dr. [Johanna K. Birnir](https://johannabirnir.com/)
+-   *Duties*: coordination and management of UTAs; guest lecture on [Chi-square test](Chapter_10_notes.pdf); logistical support for class exams.

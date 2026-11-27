@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+  - Evelyn_Zhu_CV.pdf
+  - Chapter_10_notes.pdf
 
 website:
-  title: "Evelyn/Zihan Zhu"
+  title: "Evelyn Zihan Zhu"
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +19,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-  page-footer: "© 2025 Evelyn/Zihan Zhu"
+  page-footer: "© 2026 Evelyn Zihan Zhu"
 format:
   html:
     theme: flatly
